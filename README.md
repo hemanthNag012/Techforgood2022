@@ -5,4 +5,7 @@ This is a basic student performance analysis with predefined data using basics o
 check here for the results: <a href="https://share.streamlit.io/muditbaid/techforgood2022/main/modplott.py">Click here!</a>
 
 Here is what it looks like
+<br>
 <img src="imgs/maths.png">
+<img src="imgs/physics.png">
+<img src="imgs/chemistry.png">
